@@ -1,0 +1,10 @@
+bigcode-evaluation-harness
+lm-evaluation-harness
+venv
+__pycache__
+
+# this is the final upload for aws lambda
+package.zip
+
+# playground, testing stuff, don't need to upload
+upload-to-aws-ecr.ipynb
